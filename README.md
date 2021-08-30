@@ -24,7 +24,7 @@
 
 Склонируйте репозиторий с помощью git
 
-    https://github.com/
+    git clone https://github.com/NikSNV/user_survey.git
 Перейти в папку:
 ```bash
 cd user_survey
